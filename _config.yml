@@ -2,4 +2,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Blog of Jérôme A."
-description: "Write some articles I have done during my daily learning session."
+description: "Write some articles on subjects I have seen during my daily learning session."
